@@ -7,14 +7,14 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/46zAJHxw7fh48qXpnP/giphy.gif?cid=ecf05e47u7085f56j3czpoxgflymdw90ucvgcbdq9fz64tjz&rid=giphy.gif&ct=g" width="200"/>
     
-  <div>
-    <a href="http://t.me/shamirena" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="http://wa.me/+79222348139" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
-    </a>
-  </div>
+<div>
+  <a href="http://t.me/shamirena" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="http://wa.me/+79222348139" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+  </a>
+</div>
     
 </div>
 
